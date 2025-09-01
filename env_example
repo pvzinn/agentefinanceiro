@@ -1,0 +1,9 @@
+# Configuração da API Key da Groq
+# 1. Vá para https://console.groq.com
+# 2. Crie uma conta gratuita
+# 3. Navegue até "API Keys"
+# 4. Clique em "Create API Key"
+# 5. Copie a chave e cole abaixo (substitua "sua_chave_aqui")
+# 6. Renomeie este arquivo para .env
+
+GROQ_API_KEY=sua_chave_aqui
